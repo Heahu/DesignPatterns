@@ -14,4 +14,5 @@
 3. 클라이언트의 요청이 어댑터로 전달되고, 어댑터는 이를 어댑티에 맞게 변환하여 호출
 4. 어댑티의 결과는 다시 어댑터로 통해 클라이언트에 전달됨
 </br>
-참고자료 : https://hongjinhyeon.tistory.com/44
+참고자료 : https://hongjinhyeon.tistory.com/44 </br>
+참고자료 : https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS8616098823
