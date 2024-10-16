@@ -1,0 +1,17 @@
+C:\Users\hancomins\Desktop\연구소\뷰어팀\정하은\DesignPatterns\Adapter Pattern\AdapterPatternTestCode\AdapterPatternTestCode\bin\Debug\net8.0-windows\AdapterPatternTestCode.exe
+C:\Users\hancomins\Desktop\연구소\뷰어팀\정하은\DesignPatterns\Adapter Pattern\AdapterPatternTestCode\AdapterPatternTestCode\bin\Debug\net8.0-windows\AdapterPatternTestCode.deps.json
+C:\Users\hancomins\Desktop\연구소\뷰어팀\정하은\DesignPatterns\Adapter Pattern\AdapterPatternTestCode\AdapterPatternTestCode\bin\Debug\net8.0-windows\AdapterPatternTestCode.runtimeconfig.json
+C:\Users\hancomins\Desktop\연구소\뷰어팀\정하은\DesignPatterns\Adapter Pattern\AdapterPatternTestCode\AdapterPatternTestCode\bin\Debug\net8.0-windows\AdapterPatternTestCode.dll
+C:\Users\hancomins\Desktop\연구소\뷰어팀\정하은\DesignPatterns\Adapter Pattern\AdapterPatternTestCode\AdapterPatternTestCode\bin\Debug\net8.0-windows\AdapterPatternTestCode.pdb
+C:\Users\hancomins\Desktop\연구소\뷰어팀\정하은\DesignPatterns\Adapter Pattern\AdapterPatternTestCode\AdapterPatternTestCode\obj\Debug\net8.0-windows\AdapterPatternTestCode.MainForm.resources
+C:\Users\hancomins\Desktop\연구소\뷰어팀\정하은\DesignPatterns\Adapter Pattern\AdapterPatternTestCode\AdapterPatternTestCode\obj\Debug\net8.0-windows\AdapterPatternTestCode.csproj.GenerateResource.cache
+C:\Users\hancomins\Desktop\연구소\뷰어팀\정하은\DesignPatterns\Adapter Pattern\AdapterPatternTestCode\AdapterPatternTestCode\obj\Debug\net8.0-windows\AdapterPatternTestCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hancomins\Desktop\연구소\뷰어팀\정하은\DesignPatterns\Adapter Pattern\AdapterPatternTestCode\AdapterPatternTestCode\obj\Debug\net8.0-windows\AdapterPatternTestCode.AssemblyInfoInputs.cache
+C:\Users\hancomins\Desktop\연구소\뷰어팀\정하은\DesignPatterns\Adapter Pattern\AdapterPatternTestCode\AdapterPatternTestCode\obj\Debug\net8.0-windows\AdapterPatternTestCode.AssemblyInfo.cs
+C:\Users\hancomins\Desktop\연구소\뷰어팀\정하은\DesignPatterns\Adapter Pattern\AdapterPatternTestCode\AdapterPatternTestCode\obj\Debug\net8.0-windows\AdapterPatternTestCode.csproj.CoreCompileInputs.cache
+C:\Users\hancomins\Desktop\연구소\뷰어팀\정하은\DesignPatterns\Adapter Pattern\AdapterPatternTestCode\AdapterPatternTestCode\obj\Debug\net8.0-windows\AdapterPatternTestCode.sourcelink.json
+C:\Users\hancomins\Desktop\연구소\뷰어팀\정하은\DesignPatterns\Adapter Pattern\AdapterPatternTestCode\AdapterPatternTestCode\obj\Debug\net8.0-windows\AdapterPatternTestCode.dll
+C:\Users\hancomins\Desktop\연구소\뷰어팀\정하은\DesignPatterns\Adapter Pattern\AdapterPatternTestCode\AdapterPatternTestCode\obj\Debug\net8.0-windows\refint\AdapterPatternTestCode.dll
+C:\Users\hancomins\Desktop\연구소\뷰어팀\정하은\DesignPatterns\Adapter Pattern\AdapterPatternTestCode\AdapterPatternTestCode\obj\Debug\net8.0-windows\AdapterPatternTestCode.pdb
+C:\Users\hancomins\Desktop\연구소\뷰어팀\정하은\DesignPatterns\Adapter Pattern\AdapterPatternTestCode\AdapterPatternTestCode\obj\Debug\net8.0-windows\AdapterPatternTestCode.genruntimeconfig.cache
+C:\Users\hancomins\Desktop\연구소\뷰어팀\정하은\DesignPatterns\Adapter Pattern\AdapterPatternTestCode\AdapterPatternTestCode\obj\Debug\net8.0-windows\ref\AdapterPatternTestCode.dll
