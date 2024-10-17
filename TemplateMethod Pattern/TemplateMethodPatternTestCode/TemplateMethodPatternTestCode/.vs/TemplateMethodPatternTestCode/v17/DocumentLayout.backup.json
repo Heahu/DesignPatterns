@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hancomins\\Desktop\\\uC5F0\uAD6C\uC18C\\\uBDF0\uC5B4\uD300\\\uC815\uD558\uC740\\DesignPatterns\\TemplateMethod Pattern\\TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD1D977-62CB-4B6F-8EA3-B4E09E187A52}|TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode.csproj|c:\\users\\hancomins\\desktop\\\uC5F0\uAD6C\uC18C\\\uBDF0\uC5B4\uD300\\\uC815\uD558\uC740\\designpatterns\\templatemethod pattern\\templatemethodpatterntestcode\\templatemethodpatterntestcode\\templatemethodpatterntestcode\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD1D977-62CB-4B6F-8EA3-B4E09E187A52}|TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode.csproj|solutionrelative:templatemethodpatterntestcode\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD1D977-62CB-4B6F-8EA3-B4E09E187A52}|TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode.csproj|c:\\users\\hancomins\\desktop\\\uC5F0\uAD6C\uC18C\\\uBDF0\uC5B4\uD300\\\uC815\uD558\uC740\\designpatterns\\templatemethod pattern\\templatemethodpatterntestcode\\templatemethodpatterntestcode\\templatemethodpatterntestcode\\caffeinebeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD1D977-62CB-4B6F-8EA3-B4E09E187A52}|TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode.csproj|solutionrelative:templatemethodpatterntestcode\\caffeinebeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD1D977-62CB-4B6F-8EA3-B4E09E187A52}|TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode.csproj|c:\\users\\hancomins\\desktop\\\uC5F0\uAD6C\uC18C\\\uBDF0\uC5B4\uD300\\\uC815\uD558\uC740\\designpatterns\\templatemethod pattern\\templatemethodpatterntestcode\\templatemethodpatterntestcode\\templatemethodpatterntestcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD1D977-62CB-4B6F-8EA3-B4E09E187A52}|TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode.csproj|solutionrelative:templatemethodpatterntestcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD1D977-62CB-4B6F-8EA3-B4E09E187A52}|TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode.csproj|c:\\users\\hancomins\\desktop\\\uC5F0\uAD6C\uC18C\\\uBDF0\uC5B4\uD300\\\uC815\uD558\uC740\\designpatterns\\templatemethod pattern\\templatemethodpatterntestcode\\templatemethodpatterntestcode\\templatemethodpatterntestcode\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD1D977-62CB-4B6F-8EA3-B4E09E187A52}|TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode.csproj|solutionrelative:templatemethodpatterntestcode\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tea.cs",
+              "DocumentMoniker": "C:\\Users\\hancomins\\Desktop\\\uC5F0\uAD6C\uC18C\\\uBDF0\uC5B4\uD300\\\uC815\uD558\uC740\\DesignPatterns\\TemplateMethod Pattern\\TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode\\Tea.cs",
+              "RelativeDocumentMoniker": "TemplateMethodPatternTestCode\\Tea.cs",
+              "ToolTip": "C:\\Users\\hancomins\\Desktop\\\uC5F0\uAD6C\uC18C\\\uBDF0\uC5B4\uD300\\\uC815\uD558\uC740\\DesignPatterns\\TemplateMethod Pattern\\TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode\\Tea.cs",
+              "RelativeToolTip": "TemplateMethodPatternTestCode\\Tea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:14:47.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "C:\\Users\\hancomins\\Desktop\\\uC5F0\uAD6C\uC18C\\\uBDF0\uC5B4\uD300\\\uC815\uD558\uC740\\DesignPatterns\\TemplateMethod Pattern\\TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode\\Coffee.cs",
+              "RelativeDocumentMoniker": "TemplateMethodPatternTestCode\\Coffee.cs",
+              "ToolTip": "C:\\Users\\hancomins\\Desktop\\\uC5F0\uAD6C\uC18C\\\uBDF0\uC5B4\uD300\\\uC815\uD558\uC740\\DesignPatterns\\TemplateMethod Pattern\\TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode\\Coffee.cs",
+              "RelativeToolTip": "TemplateMethodPatternTestCode\\Coffee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:14:40.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CaffeineBeverage.cs",
+              "DocumentMoniker": "C:\\Users\\hancomins\\Desktop\\\uC5F0\uAD6C\uC18C\\\uBDF0\uC5B4\uD300\\\uC815\uD558\uC740\\DesignPatterns\\TemplateMethod Pattern\\TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode\\CaffeineBeverage.cs",
+              "RelativeDocumentMoniker": "TemplateMethodPatternTestCode\\CaffeineBeverage.cs",
+              "ToolTip": "C:\\Users\\hancomins\\Desktop\\\uC5F0\uAD6C\uC18C\\\uBDF0\uC5B4\uD300\\\uC815\uD558\uC740\\DesignPatterns\\TemplateMethod Pattern\\TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode\\CaffeineBeverage.cs",
+              "RelativeToolTip": "TemplateMethodPatternTestCode\\CaffeineBeverage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:14:09.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hancomins\\Desktop\\\uC5F0\uAD6C\uC18C\\\uBDF0\uC5B4\uD300\\\uC815\uD558\uC740\\DesignPatterns\\TemplateMethod Pattern\\TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode\\Program.cs",
+              "RelativeDocumentMoniker": "TemplateMethodPatternTestCode\\Program.cs",
+              "ToolTip": "C:\\Users\\hancomins\\Desktop\\\uC5F0\uAD6C\uC18C\\\uBDF0\uC5B4\uD300\\\uC815\uD558\uC740\\DesignPatterns\\TemplateMethod Pattern\\TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode\\TemplateMethodPatternTestCode\\Program.cs",
+              "RelativeToolTip": "TemplateMethodPatternTestCode\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:13:36.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
