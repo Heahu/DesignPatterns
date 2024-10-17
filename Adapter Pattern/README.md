@@ -1,8 +1,8 @@
 # Adapter Pattern
-<b>'어뎁터 패턴'</b>이란? </br>
+<b>'어댑터 패턴'</b>이란? </br>
 소프트웨어 디자인 패턴 중 하나로, 서로 호환되지 않는 인터페이스를 가진 클래스들 간의 상호작용을 가능하게 만드는 패턴이다. </br>
-어뎁터 패턴을 사용하면 기존의 코드(구)와 새로운 코드(신) 간의 호환성을 유지하면서 새로운 기능을 추가할 수 있다. </br>
-어뎁터 패턴은 다음과 같은 요소로 구성되어 있다. </br>
+어댑터 패턴을 사용하면 기존의 코드(구)와 새로운 코드(신) 간의 호환성을 유지하면서 새로운 기능을 추가할 수 있다. </br>
+어댑터 패턴은 다음과 같은 요소로 구성되어 있다. </br>
 </br>
 -타겟 : 클라이언트가 사용하는 인터페이스 </br>
 -어댑터 : 타겟 인터페이스를 구현, 기존 클래스의 인스턴스를 사용하여 타겟 인터페이스의 메서드를 호출 </br>
@@ -96,10 +96,10 @@ public partial class MainForm : Form
     }
 ```
 
-- IButton: 어댑터 패턴의 목표 인터페이스 </br>
-- WindowsButton: 실제 WinForms 버튼 기능을 구현 클래스 </br>
-- ButtonAdapter: WindowsButton을 IButton 인터페이스에 맞게 변환 </br>
-- MainForm: WinForms 폼에서 어댑터를 사용하는 예시 </br>
+- MainForm(클라이언트) : 인터페이스를 통해 버튼 기능을 사용 </br>
+- IButton(타겟 인터페이스) : 클라이언트가 사용할 수 있는 메서드 정의 </br>
+- ButtonAdapter(어댑터) : IButton을 구현하고 WindowsButton의 메서드를 호출하도록 변환 </br>
+- WindowsButton(어댑티) : 실제 WinForms 버튼 기능을 구현 클래스 </br>
 
 </br>
 참고자료 : https://hongjinhyeon.tistory.com/44 </br>
